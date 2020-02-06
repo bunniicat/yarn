@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "name": "yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bunniicat/yarn.git",
+  "author": "bunniicat <nina.nny97@gmail.com>",
+  "license": "MIT"
+}
